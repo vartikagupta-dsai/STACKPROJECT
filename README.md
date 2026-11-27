@@ -9,6 +9,7 @@ TaskFlow is a Full Stack Task Management application designed to help users easi
 The project demonstrates how a React frontend communicates with a Node.js + Express backend and stores task data permanently in MongoDB.
 
 🎯 Features
+
 ➕ Add Tasks — Create new tasks easily
 📋 View Tasks — Display all saved tasks
 ✏️ Edit Tasks — Update existing tasks
@@ -18,27 +19,33 @@ The project demonstrates how a React frontend communicates with a Node.js + Expr
 ⚡ React + Vite — Fast and modern frontend
 📱 Clean UI — Simple and user-friendly interface
 🔄 Real-time UI Updates — Changes appear immediately
+
 🛠️ Tech Stack
+
 Frontend
 ⚛️ React.js
 ⚡ Vite
 🎨 CSS
+
 🌐 JavaScript
 Backend
 🟢 Node.js
 🚂 Express.js
 🔗 REST API
 🌍 CORS
+
 Database
 🍃 MongoDB
 ☁️ MongoDB Atlas
 📦 Mongoose
+
 Development Tools
 💻 Visual Studio Code
 🔥 Git
 🐙 GitHub
 📮 Postman / Browser API Testing
 🏗️ Project Structure
+
 TaskFlow/
 │
 ├── backend/
