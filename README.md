@@ -88,10 +88,9 @@ GET	/api/tasks	Get all tasks
 POST	/api/tasks	Add a new task
 DELETE	/api/tasks/:id	Delete a task
 ⚙️ Installation & Setup
-1️⃣ Clone the Repository
-git clone https://github.com/dipali108verma/TaskFlow-.git
+
 cd TaskFlow-
-2️⃣ Setup Backend
+ Setup Backend
 cd backend
 Install dependencies:
 
